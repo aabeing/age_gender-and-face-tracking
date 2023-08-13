@@ -1,7 +1,10 @@
 # age_gender
 Age gender detection from cctv visuals. Video analysis using the face tracking based on IOU (Intersection over union)
+
 Demo video:
-https://youtu.be/y0N8fIm0b5w
+
+[![Age and Gender Detection with face tracking Demo](https://img.youtube.com/vi/y0N8fIm0b5w/0.jpg)](https://www.youtube.com/watch?v=y0N8fIm0b5w)
+
 Face Detection used: yoloface: https://github.com/sthanhng/yoloface
 
 Age and Gender detection: https://github.com/GilLevi/AgeGenderDeepLearning
