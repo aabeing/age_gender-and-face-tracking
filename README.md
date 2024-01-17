@@ -12,4 +12,4 @@ https://www.researchgate.net/publication/319502501_High-Speed_Tracking-by-Detect
 
 
 
-[![Youtube video sample with tracking](https://img.youtube.com/vi/nC9WN6noOoM/0.jpg)](https://www.youtube.com/watch?v=nC9WN6noOoM)
+
